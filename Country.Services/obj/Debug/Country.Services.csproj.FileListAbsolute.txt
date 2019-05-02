@@ -1,0 +1,6 @@
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\bin\Debug\Country.Services.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\bin\Debug\Country.Services.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\obj\Debug\Country.Services.csprojAssemblyReference.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\obj\Debug\Country.Services.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\obj\Debug\Country.Services.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.Services\obj\Debug\Country.Services.pdb

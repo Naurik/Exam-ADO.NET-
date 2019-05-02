@@ -1,0 +1,11 @@
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\DatabaseCountry.mdf
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\DatabaseCountry_log.ldf
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\Country.DataAccess.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\Country.DataAccess.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\Country.Services.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\bin\Debug\Country.Services.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\obj\Debug\Country.DataAccess.csprojAssemblyReference.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\obj\Debug\Country.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\obj\Debug\Country.DataAccess.csproj.CopyComplete
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\obj\Debug\Country.DataAccess.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\Country.DataAccess\obj\Debug\Country.DataAccess.pdb

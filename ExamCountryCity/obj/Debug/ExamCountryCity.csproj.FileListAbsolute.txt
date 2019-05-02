@@ -1,0 +1,14 @@
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\DatabaseCountry.mdf
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\DatabaseCountry_log.ldf
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\ExamCountryCity.exe.config
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\ExamCountryCity.exe
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\ExamCountryCity.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\Country.DataAccess.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\Country.Services.dll
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\Country.DataAccess.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\bin\Debug\Country.Services.pdb
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\obj\Debug\ExamCountryCity.csprojAssemblyReference.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\obj\Debug\ExamCountryCity.csproj.CoreCompileInputs.cache
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\obj\Debug\ExamCountryCity.csproj.CopyComplete
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\obj\Debug\ExamCountryCity.exe
+C:\Users\МашимовН.CORP\source\repos\ExamCountryCity\ExamCountryCity\obj\Debug\ExamCountryCity.pdb
